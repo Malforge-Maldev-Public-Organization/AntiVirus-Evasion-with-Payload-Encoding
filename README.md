@@ -88,9 +88,7 @@ Two functions are used in this example:
 To test the payload against antivirus software, the following website is used.
 
 > AntiScan.Me | Online Virus Scanner Without Result Distribution\
-Scan your file online with multiple different antiviruses without distributing the results of your scan. [www.antiscan.me](https://www.antiscan.me/)
-
-Virustotal, is currently considered a scam for using the malware that is published on it
+Scan your file online with multiple different antiviruses without distributing the results of your scan. [antiscan.me](https://www.antiscan.me/)
 
 **Virustotal** is often criticized for using the malware uploaded to its platform.
 
@@ -109,7 +107,3 @@ In conclusion, using Base64 helps evade some antivirus software, but not all. Fu
 Thanks for reading! :space_invader:	
 
 **-Malforge Group.**
-
-
-
-
