@@ -104,6 +104,6 @@ This are the results with Base64 payload encoding:
 
 In conclusion, using Base64 helps evade some antivirus software, but not all. Future articles will explore additional methods to bypass more antivirus detection. 
 
-Thanks for reading! :space_invader:	
+Thanks for reading! ^_^	
 
 **-Malforge Group.**
